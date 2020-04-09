@@ -1,0 +1,5 @@
+在本地开发完项目后，需要导出python相关的依赖包以便后续迁移项目使用
+1.cmd 进入项目目录 然后执行
+E:\project\webauto>pip freeze>requrements.txt
+即可在requrements.txt文件中看到相关的依赖包
+2.或在pycharm中 teeminal中执行以上命令 
