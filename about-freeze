@@ -2,4 +2,8 @@
 1.cmd 进入项目目录 然后执行
 E:\project\webauto>pip freeze>requrements.txt
 即可在requrements.txt文件中看到相关的依赖包
+
 2.或在pycharm中 teeminal中执行以上命令 
+
+3.在另一个环境下安装环境使用如下命令
+pip install -r my_freeze.txt
